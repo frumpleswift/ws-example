@@ -2,12 +2,13 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>gov.dos.cst</groupId>
-	<artifactId>CSTProxyServices</artifactId>
+        <!--src/main/org/tempuri-->
+	<groupId>org</groupId>
+	<artifactId>tempuri</artifactId>
 	<version>1</version>
 	<packaging>war</packaging>
 
-	<name>mvnjaxws</name>
+	<name>tempuri</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
